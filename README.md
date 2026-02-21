@@ -15,31 +15,8 @@ Estructura Feature-Based | Bootstrap 5 | React | React Router
 
 El proyecto está organizado utilizando el enfoque Feature-Based, lo que significa que cada funcionalidad está separada en carpetas independientes para mejorar la escalabilidad y el mantenimiento.
 
-src/
-│
-├── features/
-│   ├── layout/
-│   │   ├── components/
-│   │   │   ├── Article.jsx
-│   │   │   ├── Content.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   ├── Header.jsx
-│   │   │   └── Props.jsx
-│   │
-│   ├── hooks/
-│   ├── pages/
-│   ├── products/
-│
-├── shared/
-│   └── components/
-│
-├── styles/
-│   ├── App.css
-│   └── index.css
-│
-├── App.jsx
-├── main.jsx
-└── Routes.jsx
+<img width="340" height="493" alt="image" src="https://github.com/user-attachments/assets/ce2d3758-ad9c-42f5-a3fd-71b250e83618" />
+
 
 📌 Explicación rápida
 
