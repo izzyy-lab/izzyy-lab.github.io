@@ -1,8 +1,8 @@
-📘 Proyecto CRUD + Primeros Pasos en React
+#📘 Proyecto CRUD + Primeros Pasos en React
 
 Estructura Feature-Based | Bootstrap 5 | React | React Router
 
-🚀 Características principales
+#🚀 Características principales
 
 ✔ Primer contacto con React
 ✔ Carrito de compras simple
@@ -11,14 +11,14 @@ Estructura Feature-Based | Bootstrap 5 | React | React Router
 ✔ Estilos con Bootstrap 5
 ✔ Estructura organizada por features
 
-📦 Estructura del Proyecto (Feature-Based)
+#📦 Estructura del Proyecto (Feature-Based)
 
 El proyecto está organizado utilizando el enfoque Feature-Based, lo que significa que cada funcionalidad está separada en carpetas independientes para mejorar la escalabilidad y el mantenimiento.
 
 <img width="340" height="493" alt="image" src="https://github.com/user-attachments/assets/ce2d3758-ad9c-42f5-a3fd-71b250e83618" />
 
 
-📌 Explicación rápida
+#📌 Explicación rápida
 
 features/ → Contiene las funcionalidades principales del proyecto.
 
@@ -36,7 +36,7 @@ App.jsx → Componente raíz.
 
 main.jsx → Punto de entrada de la aplicación.
 
-🎨 Interfaz gráfica
+#🎨 Interfaz gráfica
 
 El proyecto utiliza Bootstrap 5 para el diseño y maquetación.
 
@@ -52,7 +52,7 @@ Navbar responsive
 
 El objetivo fue enfocarse en entender React sin complicar el diseño visual.
 
-🧭 Navegación por el aplicativo
+#🧭 Navegación por el aplicativo
 
 Se implementó navegación usando React Router:
 
@@ -66,7 +66,7 @@ Ejercicio de Props
 
 Las rutas están centralizadas en Routes.jsx, permitiendo una estructura limpia y escalable.
 
-🛒 Carrito de Compras
+#🛒 Carrito de Compras
 
 Se desarrolló un carrito básico que permite:
 
@@ -84,7 +84,7 @@ Comprender el flujo de datos en React
 
 Practicar renderizado dinámico
 
-🧩 Ejercicio de Props
+#🧩 Ejercicio de Props
 
 Se realizó un ejercicio básico para entender:
 
@@ -102,7 +102,7 @@ Reutilización
 
 Componentes dinámicos
 
-🎯 Objetivo educativo
+#🎯 Objetivo educativo
 
 Este proyecto tiene como finalidad:
 
@@ -120,7 +120,7 @@ Organizar código usando Feature-Based Structure
 
 No busca ser un e-commerce completo, sino una base sólida para proyectos más avanzados.
 
-🛠 Tecnologías utilizadas
+#🛠 Tecnologías utilizadas
 
 React
 
@@ -130,7 +130,7 @@ Bootstrap 5
 
 Vite
 
-👨‍💻 Autor
+#👨‍💻 Autor
 
-Felipe Echeverri
+Felipe Echeverri David
 Proyecto académico – Primer contacto con React
